@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-remark-numbered-footnotes",
+  "name": "gatsby-remark-numbered-footnotes-patched",
   "version": "1.0.1",
   "description": "Replaces user-defined footnote strings with numbered references.",
   "main": "index.js",
